@@ -1,0 +1,23 @@
+langchain
+chromadb
+langchain_community
+transformers
+requests
+sentence-transformers  # If using SentenceTransformers
+tiktoken
+PyMuPDF # Or PyPDF2 if you prefer
+fitz # Part of PyMuPDF
+spacy
+pandas
+numpy
+scikit-learn # For PCA and t-SNE
+matplotlib # For visualization
+google-api-python-client # For interacting with Google APIs
+oauth2client # For Google authentication
+gspread # For interacting with Google Sheets
+streamlit # For the user interface
+flask # For the web framework
+
+# For development (optional)
+jupyter # If using Jupyter Notebooks
+pytest # Or unittest for testing
